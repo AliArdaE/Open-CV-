@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4+6EZHLy9JM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aliar\\Desktop\\Open CV\\ObjectDetectionSample\\ObjectDetectionSample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aliar\\.nuget\\packages\\opencvsharp4\\4.11.0.20250507\\opencvsharp4.4.11.0.20250507.nupkg.sha512",
+    "C:\\Users\\aliar\\.nuget\\packages\\opencvsharp4.runtime.win\\4.11.0.20250507\\opencvsharp4.runtime.win.4.11.0.20250507.nupkg.sha512",
+    "C:\\Users\\aliar\\.nuget\\packages\\system.memory\\4.6.3\\system.memory.4.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
